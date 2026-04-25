@@ -1,1 +1,1 @@
-This datapack makes the nether coordinates 1:1 with the overworld. Encourage using the overworld to travel!
+This datapack makes the Nether coordinates 1:1 with the Overworld. Encourages using the Overworld to travel!
